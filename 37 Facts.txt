@@ -1,0 +1,23 @@
+#37 radian degrees: AM and PM
+1.	1:12 (approximately 12.18 minutes)
+2.	2:04 (approximately 4.18 minutes)
+3.	2:17 (approximately 17.64 minutes)
+4.	3:09 (approximately 9.64 minutes)
+5.	3:23 (approximately 23.09 minutes)
+6.	4:15 (approximately 15.09 minutes)
+7.	4:29 (approximately 28.55 minutes)
+8.	5:20 (approximately 20.55 minutes)
+9.	5:34 (exactly 34 minutes)
+10.	6:26 (exactly 26 minutes)
+11.	6:39 (approximately 39.45 minutes)
+12.	7:31 (approximately 31.45 minutes)
+13.	7:44 (approximately 44.91 minutes)
+14.	8:36 (approximately 36.91 minutes)
+15.	8:50 (approximately 50.36 minutes)
+16.	9:42 (approximately 42.36 minutes)
+17.	9:55 (approximately 55.82 minutes)
+18.	10:47 (approximately 47.82 minutes)
+19.	11:53 (approximately 53.27 minutes)
+20.	12:58 (approximately 58.73 minutes)
+
+#37 degress celsius: Average Human temperature
