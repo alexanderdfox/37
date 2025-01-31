@@ -1,0 +1,31 @@
+For Jackpot (6/6), with 82 tickets:
+The probability of winning is: 0.00026031
+The odds of winning are approximately 1 in 3842
+The probability of getting at least one 3 or 7 is: 1.00000000
+The odds of getting at least one 3 or 7 are approximately 1 in 1
+The probability of getting at least one set of 3 consecutive numbers is: 0.97017219
+The odds of getting at least one set of 3 consecutive numbers are approximately 1 in 1
+
+For 5/6 ($2,000), with 82 tickets:
+The probability of winning is: 0.07226920
+The odds of winning are approximately 1 in 14
+The probability of getting at least one 3 or 7 is: 1.00000000
+The odds of getting at least one 3 or 7 are approximately 1 in 1
+The probability of getting at least one set of 3 consecutive numbers is: 0.97017219
+The odds of getting at least one set of 3 consecutive numbers are approximately 1 in 1
+
+For 4/6 ($50), with 82 tickets:
+The probability of winning is: 0.98920959
+The odds of winning are approximately 1 in 1
+The probability of getting at least one 3 or 7 is: 1.00000000
+The odds of getting at least one 3 or 7 are approximately 1 in 1
+The probability of getting at least one set of 3 consecutive numbers is: 0.97017219
+The odds of getting at least one set of 3 consecutive numbers are approximately 1 in 1
+
+For 3/6 ($3), with 82 tickets:
+The probability of winning is: 1.00000000
+The odds of winning are approximately 1 in 1
+The probability of getting at least one 3 or 7 is: 1.00000000
+The odds of getting at least one 3 or 7 are approximately 1 in 1
+The probability of getting at least one set of 3 consecutive numbers is: 0.97017219
+The odds of getting at least one set of 3 consecutive numbers are approximately 1 in 1
